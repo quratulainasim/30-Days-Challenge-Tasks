@@ -13,7 +13,7 @@ In the past, developers spent lots of time coding, planning, and handling errors
 I imagine a future where building an app is as simple as explaining a good idea clearly, and then working side-by-side with AI to make it real and productive.
 
 # Self-Test (MCQs)
-#1️⃣ What is the main purpose of the AI-Native Era?
+1️⃣ What is the main purpose of the AI-Native Era?
 
 - a) Replace developers
 - b) Empower developers through AI tools ✔️
@@ -22,28 +22,28 @@ I imagine a future where building an app is as simple as explaining a good idea 
 
 2️⃣ What defines an AI-driven developer?
 
-a) Writes only syntax
-b) Creates context-aware prompts ✔️
-c) Avoids tools
-d) Works offline
+- a) Writes only syntax
+- b) Creates context-aware prompts ✔️
+- c) Avoids tools
+- d) Works offline
 
 3️⃣ What does “AIDD” stand for?
 
-a) AI-Integrated Data Design
-b) AI-Driven Development ✔️
-c) Automated IDE Deployment
-d) Adaptive Input Debugger
+- a) AI-Integrated Data Design
+- b) AI-Driven Development ✔️
+- c) Automated IDE Deployment
+- d) Adaptive Input Debugger
 
 4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
 
-a) Manual coding
-b) Evaluating and improving AI outputs ✔️
-c) UI design
-d) Testing only
+- a) Manual coding
+- b) Evaluating and improving AI outputs ✔️
+- c) UI design
+- d) Testing only
 
 5️⃣ What should developers focus on in the AI era?
 
-a) Syntax only
-b) Building reasoning + evaluation skills ✔️
-c) Avoiding AI tools
-d) Manual workflows
+- a) Syntax only
+- b) Building reasoning + evaluation skills ✔️
+- c) Avoiding AI tools
+- d) Manual workflows
