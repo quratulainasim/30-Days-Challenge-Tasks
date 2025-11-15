@@ -13,12 +13,12 @@ In the past, developers spent lots of time coding, planning, and handling errors
 I imagine a future where building an app is as simple as explaining a good idea clearly, and then working side-by-side with AI to make it real and productive.
 
 # Self-Test (MCQs)
-1️⃣ What is the main purpose of the AI-Native Era?
+#1️⃣ What is the main purpose of the AI-Native Era?
 
--a) Replace developers
--b) Empower developers through AI tools ✔️
--c) Eliminate coding
--d) Automate testing
+- a) Replace developers
+- b) Empower developers through AI tools ✔️
+- c) Eliminate coding
+- d) Automate testing
 
 2️⃣ What defines an AI-driven developer?
 
