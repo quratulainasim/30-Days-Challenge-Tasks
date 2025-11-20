@@ -18,8 +18,10 @@
  Q4. Name any two developer tools introduced with Gemini 3.0?
 
  Two new tools for developers are:
-- Google Antigravity 
+- Google Antigravity
+   
   A powerful AI workspace where Gemini can browse, code, and complete tasks for you.
 
-- Gemini CLI 
+- Gemini CLI
+  
   A command-line tool that gives fast AI help directly in your terminal while you code.
