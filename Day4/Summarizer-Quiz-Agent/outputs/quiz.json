@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "What is the primary purpose of OpenAI's Swarm framework?",
+      "options": [
+        "A) To create single-agent systems for simple tasks.",
+        "B) To design experimental, lightweight, and open-source multi-agent systems.",
+        "C) To develop a new large language model (LLM).",
+        "D) To provide a robust platform for real-time data analysis."
+      ],
+      "answer": "B) To design experimental, lightweight, and open-source multi-agent systems."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "Which of the following are the two fundamental abstractions in the OpenAI Swarm framework that facilitate multi-agent coordination?",
+      "options": [
+        "A) Instructions and Models",
+        "B) Tools and Prompts",
+        "C) Agents and Handoffs",
+        "D) Queries and Outputs"
+      ],
+      "answer": "C) Agents and Handoffs"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "In the context of 'Handoffs,' what is the role of a 'Triage Agent' as described in the example?",
+      "options": [
+        "A) To perform all tasks directly without delegation.",
+        "B) To access user input and forward it to the appropriate specialized agent.",
+        "C) To refine summaries and improve readability.",
+        "D) To check for factual inconsistencies in text."
+      ],
+      "answer": "B) To access user input and forward it to the appropriate specialized agent."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "OpenAI Agents SDK is described as a production-ready, upgraded version of Swarm. What key aspect does it align with?",
+      "options": [
+        "A) Google's Material Design principles.",
+        "B) Microsoft's Azure AI services.",
+        "C) Anthropic's proposed design patterns.",
+        "D) Amazon's Web Services (AWS) architecture."
+      ],
+      "answer": "C) Anthropic's proposed design patterns."
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Which design pattern involves multiple agents working concurrently (simultaneously) to complete different parts of a task to increase overall speed?",
+      "options": [
+        "A) Prompt Chaining",
+        "B) Routing",
+        "C) Parallelization",
+        "D) Orchestrator-Workers"
+      ],
+      "answer": "C) Parallelization"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "question": "Explain what an 'Agent' abstraction is within the OpenAI Swarm framework, including its key characteristics.",
+      "answer": "An Agent is an encapsulated unit where instructions, a model, and tools are defined. It is an intelligent component dependent on a large language model (LLM), executing tasks through its own instructions (system prompts) and tools (python functions). Each agent performs its work separately and is specialized in a particular role, such as an 'English Agent' or 'Spanish Agent'."
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "question": "Describe the 'Routing' design pattern with an example, as explained in the text.",
+      "answer": "The 'Routing' design pattern involves sending a task to the most suitable agent based on its specialization. As an example, in a customer service chatbot, a 'Router agent' first analyzes the user's message. If the user expresses a 'billing issue', it sends the query to a 'Billing Agent'. If it's a 'technical error', it forwards to a 'Tech Support Agent'. This ensures that each query is handled by an agent expert in that specific domain."
+    }
+  ]
+}
